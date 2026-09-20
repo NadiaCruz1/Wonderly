@@ -1,4 +1,6 @@
 node_modules
 dist
 .DS_Store
-*.loca
+*.local
+.env
+.env.local
